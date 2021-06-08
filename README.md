@@ -1,10 +1,10 @@
-# This is an assignment for extra credit. 
+ This is an assignment for extra credit. 
 # Question 1
 * 1. Write a program that reverses a sentence. Input - ask the user for a sentence: a long string containing multiple words. Return to the user the same string,  with the words in backward order.
 
-# Example:
-* Input - My name is V Tadimeti.
-* Output - Tadimeti V is name My.
+ Example:
+ Input - My name is V Tadimeti.
+ Output - Tadimeti V is name My.
 
 * 2. Write tests for the above program using unittest and pytest. (do not run the tests with pytest alone - you should use pytest syntax as well.)
 
