@@ -1,1 +1,13 @@
+1. As a user, I want when I login on the same workstation, I dont have to input the password every tims so that I may save a lot of time
 
+
+2. As a user, I want to form a group with my friends, so we can communicate together online.
+
+
+3. As a user, I want to look through my conversation history with others and make sure I don't forget any words or appointments.
+
+
+4. As a user I want this program to be linked directly to the google map so that I can view this right on the google map when my buddy emails me a spot.
+
+
+5. As a user, I want to categorise my friends so that when I seek for someone, I find them promptly
